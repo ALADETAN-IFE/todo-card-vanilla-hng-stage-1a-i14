@@ -79,7 +79,7 @@ All Stage 0 test IDs remain available, and Stage 1a test IDs were added for:
 
 ## Live Demo
 
-- Vercel deployment: [Vercel](https://todo-card-hng-stage-0-i14.vercel.app)
+- Vercel deployment: [Vercel](https://todo-card-vanilla.vercel.app)
 
 ## Author
 
